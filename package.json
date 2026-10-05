@@ -1,0 +1,22 @@
+{
+  "name": "workshop-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "lint": "echo \"No linter configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manita22/Workshop-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/manita22/Workshop-11/issues"
+  },
+  "homepage": "https://github.com/manita22/Workshop-11#readme"
+}
